@@ -26,7 +26,7 @@ A **Left Join** is used to ensure all order records are retained.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas  
 - SQLite  
